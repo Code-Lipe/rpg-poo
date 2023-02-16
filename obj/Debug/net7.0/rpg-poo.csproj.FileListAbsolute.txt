@@ -1,0 +1,15 @@
+C:\Users\Felip\Documents\GitHub\rpg-poo\bin\Debug\net7.0\rpg-poo.exe
+C:\Users\Felip\Documents\GitHub\rpg-poo\bin\Debug\net7.0\rpg-poo.deps.json
+C:\Users\Felip\Documents\GitHub\rpg-poo\bin\Debug\net7.0\rpg-poo.runtimeconfig.json
+C:\Users\Felip\Documents\GitHub\rpg-poo\bin\Debug\net7.0\rpg-poo.dll
+C:\Users\Felip\Documents\GitHub\rpg-poo\bin\Debug\net7.0\rpg-poo.pdb
+C:\Users\Felip\Documents\GitHub\rpg-poo\obj\Debug\net7.0\rpg-poo.csproj.AssemblyReference.cache
+C:\Users\Felip\Documents\GitHub\rpg-poo\obj\Debug\net7.0\rpg-poo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Felip\Documents\GitHub\rpg-poo\obj\Debug\net7.0\rpg-poo.AssemblyInfoInputs.cache
+C:\Users\Felip\Documents\GitHub\rpg-poo\obj\Debug\net7.0\rpg-poo.AssemblyInfo.cs
+C:\Users\Felip\Documents\GitHub\rpg-poo\obj\Debug\net7.0\rpg-poo.csproj.CoreCompileInputs.cache
+C:\Users\Felip\Documents\GitHub\rpg-poo\obj\Debug\net7.0\rpg-poo.dll
+C:\Users\Felip\Documents\GitHub\rpg-poo\obj\Debug\net7.0\refint\rpg-poo.dll
+C:\Users\Felip\Documents\GitHub\rpg-poo\obj\Debug\net7.0\rpg-poo.pdb
+C:\Users\Felip\Documents\GitHub\rpg-poo\obj\Debug\net7.0\rpg-poo.genruntimeconfig.cache
+C:\Users\Felip\Documents\GitHub\rpg-poo\obj\Debug\net7.0\ref\rpg-poo.dll
